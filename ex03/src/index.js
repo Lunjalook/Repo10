@@ -7,8 +7,8 @@ var myFood = {
 function myFunction(myObj) {
     var vegetableValue = myFood["vegetables"];
     var fruitValue = myFood["fruit"];
-    var drinkbleValue = myFood["drink"];
-    return { vegetableValue, fruitValue, drinkbleValue };
+    var drinkValue = myFood["drink"];
+    return { vegetableValue, fruitValue, drinkValue };
 
 }
 
